@@ -22,10 +22,10 @@ JavaScript (jQuery, Popper.js, Bootstrap JS)
 
 🚀 How to Run
 Download or clone the repository.
-Open the index.html file in a browser.
-Ensure you have an internet connection to load Bootstrap from the CDN.
+1)Open the index.html file in a browser.
+2)Ensure you have an internet connection to load Bootstrap from the CDN.
 
 📌 Future Improvements
-Add an interactive map to locate places.
-Implement a backend to fetch real-time data.
-Enhance animations for a better user experience.
+1)Add an interactive map to locate places.
+2)Implement a backend to fetch real-time data.
+3)Enhance animations for a better user experience.
