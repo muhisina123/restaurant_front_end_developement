@@ -16,8 +16,7 @@ HTML5
 CSS3 (Bootstrap 5.0.2)
 JavaScript (jQuery, Popper.js, Bootstrap JS)
 📷 Screenshots
-(Add screenshots of the website here to give a preview.)
-
+(https://github.com/muhisina123/restaurant_front_end_developement/blob/main/maquette_groupe08.jpg)
 🚀 How to Run
 Download or clone the repository.
 Open the index.html file in a browser.
